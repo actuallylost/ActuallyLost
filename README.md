@@ -3,6 +3,7 @@ Full-time Procrastinator, trying to learn how to not error in [`TypeScript`](htt
 
 - **Twitter:** [`@smhlost`](https://twitter.com/smhlost)
 - **Discord:** `Lost#1035`
+
 You can contact me for anything you'd like, I'm here to help ❤️
 
 [![actuallylost's github stats](https://github-readme-stats.vercel.app/api?username=actuallylost)](https://github.com/anuraghazra/github-readme-stats)
