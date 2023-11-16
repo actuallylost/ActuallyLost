@@ -2,7 +2,7 @@
 Full-time Procrastinator, trying to learn how to not error in [`TypeScript`](https://github.com/microsoft/TypeScript).
 
 - **Twitter:** [`@smhlost`](https://twitter.com/smhlost)
-- **Discord:** `Lost#1035`
+- **Discord:** `@losteey`
 
 You can contact me for anything Typescript, React or Figma ❤️
 
