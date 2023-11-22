@@ -1,5 +1,5 @@
 
-Full-time Procrastinator, trying to learn how to not error in [`TypeScript`](https://github.com/microsoft/TypeScript).
+Procrastinating till the end of time while trying to figure out how to use [`Rust`](https://github.com/rust-lang/rust).
 
 - **Twitter:** [`@smhlost`](https://twitter.com/smhlost)
 - **Discord:** `@losteey`
